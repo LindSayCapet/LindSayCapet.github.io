@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as r}from"./chunks/framework.9be23249.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"curriculumVitae/index.md"}'),a={name:"curriculumVitae/index.md"};function c(n,o,i,s,d,p){return r(),t("div")}const u=e(a,[["render",c]]);export{m as __pageData,u as default};
