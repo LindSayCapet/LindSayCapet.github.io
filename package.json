@@ -1,0 +1,19 @@
+{
+  "name": "lindsayblog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy":"bash deploy.sh",
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "serve": "vitepress serve docs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "stylus": "^0.59.0",
+    "stylus-loader": "^7.1.0",
+    "vitepress": "^1.0.0-alpha.65"
+  }
+}
